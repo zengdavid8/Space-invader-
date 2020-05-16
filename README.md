@@ -1,2 +1,2 @@
 # Space-invader-
-Space invader through mips
+Space invader through modified version of mars mips
